@@ -1,11 +1,11 @@
-# AI-Powered Anomaly Detection System (Closed-Source Portfolio)
+# AI-Powered Anomaly Detection System (Closed-Source Project)
 
 ## Snapshot
 
 - Type: Proof-of-Concept (POC) - AI-based operational data analysis
 - My role: Full-stack developer (design, implementation, testing)
 - Users / Stakeholders: Operations teams analyzing call detail records (CDR) data
-- Status: Completed POC
+- Status: Production POC at Wasabi
 
 ## Problem
 
@@ -59,5 +59,5 @@ Users upload CSV files containing CDR data through a web interface. The system n
 
 ## Confidentiality note
 
-This project was developed as a proof-of-concept for internal use. Code, API endpoints, and proprietary data schemas are not included. I'm happy to walk through the architecture, design decisions, and technical implementation in detail during interviews.
+This project was developed as a production proof-of-concept at Wasabi for operational data analysis. Code, API endpoints, and proprietary data schemas are not included. I'm happy to walk through the architecture, design decisions, and technical implementation in detail during interviews.
 

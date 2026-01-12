@@ -1,11 +1,11 @@
-# Connectivity Status Monitor (Closed-Source Portfolio)
+# Connectivity Status Monitor (Closed-Source Project)
 
 ## Snapshot
 
 - Type: Infrastructure monitoring tool
 - My role: Full-stack developer and DevOps engineer (architecture, implementation, deployment)
 - Users / Stakeholders: Operations teams monitoring endpoint connectivity across regions
-- Status: Production deployment
+- Status: Production deployment at Wasabi
 
 ## Problem
 
@@ -63,5 +63,5 @@ The collector service runs as a scheduled job (systemd timer or Docker container
 
 ## Confidentiality note
 
-This project was developed for internal infrastructure monitoring. Specific endpoint URLs, bucket names, IAM credentials, and deployment configurations are not included. I can provide detailed walkthroughs of the architecture, security model, and deployment strategies during interviews.
+This project was developed for production infrastructure monitoring at Wasabi. Specific endpoint URLs, bucket names, IAM credentials, and deployment configurations are not included.
 

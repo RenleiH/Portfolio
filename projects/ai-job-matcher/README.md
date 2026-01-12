@@ -1,11 +1,11 @@
-# AI Job Description Matcher (Closed-Source Portfolio)
+# AI Job Description Matcher (Closed-Source Project)
 
 ## Snapshot
 
 - Type: AI-powered matching tool
 - My role: Full-stack developer (backend, AI integration, frontend)
 - Users / Stakeholders: HR and recruitment teams matching internal and external job descriptions
-- Status: Completed project
+- Status: Completed freelance commercial project
 
 ## Problem
 
@@ -60,5 +60,5 @@ Users upload two files through a web interface: one containing internal job desc
 
 ## Confidentiality note
 
-This project was developed for internal HR use. Source code, model configurations, and proprietary data schemas are not included. I'm available to discuss the semantic matching approach, file processing architecture, and technical implementation details in interviews.
+This project was developed as a freelance commercial solution for a client's HR operations. Source code, model configurations, and proprietary data schemas are not included. I'm available to discuss the semantic matching approach, file processing architecture, and technical implementation details in interviews.
 

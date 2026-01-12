@@ -6,15 +6,15 @@ I'm a software engineer focused on building AI-powered tools, monitoring systems
 
 ### [AI-Powered Anomaly Detection System](./projects/ai-cdr-anomaly-detection/)
 **Pure AI-based detection for operational data anomalies**  
-Next.js, OpenAI API, TypeScript | [View Project →](./projects/ai-cdr-anomaly-detection/)
+*Production project at Wasabi* | Next.js, OpenAI API, TypeScript | [View Project →](./projects/ai-cdr-anomaly-detection/)
 
 ### [Connectivity Status Monitor](./projects/connectivity-status-monitor/)
 **Real-time endpoint monitoring dashboard with S3-backed architecture**  
-Node.js, Wasabi S3, Uptime.com API, Static Frontend | [View Project →](./projects/connectivity-status-monitor/)
+*Production project at Wasabi* | Node.js, Wasabi S3, Uptime.com API, Static Frontend | [View Project →](./projects/connectivity-status-monitor/)
 
 ### [AI Job Description Matcher](./projects/ai-job-matcher/)
 **Semantic similarity matching for job descriptions**  
-FastAPI, Sentence Transformers, Python | [View Project →](./projects/ai-job-matcher/)
+*Freelance commercial project* | FastAPI, Sentence Transformers, Python | [View Project →](./projects/ai-job-matcher/)
 
 ## Skills
 
